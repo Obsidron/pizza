@@ -48,7 +48,7 @@
 </head>
 <body>
     <header>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Nature_journal_logo.svg/1280px-Nature_journal_logo.svg.png" alt="Nature Journal Logo" width="100">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Nature_journal_logo.svg/1280px-Nature_journal_logo.svg.png" alt="Nature Journal Logo" width="150">
     </header>
     <article>
         <h2>Exploring the Hypothetical Link Between Pizza Consumption and Conjunctivitis Incidence</h2>
