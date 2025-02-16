@@ -17,7 +17,7 @@
             max-width: 50px;
         }
         article {
-            max-width: 800px;
+            max-width: 50px;
             margin: auto;
         }
         h1, h2 {
