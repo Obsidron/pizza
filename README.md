@@ -2,10 +2,10 @@
 <head>
     <meta charset="UTF-8">
     <title>Nature Journal: Dietary Pizza Deficiency and Conjunctivitis Risk</title>
-    <link href="https://fonts.googleapis.com/css?family=Roboto+Serif:400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Times+New+Roman:400,700" rel="stylesheet">
     <style>
         body {
-            font-family: 'Roboto Serif', sans-serif;
+            font-family: 'Roboto Serif', 'Times New Roman', serif;
             margin: 20px;
             line-height: 1.6;
             color: #333;
