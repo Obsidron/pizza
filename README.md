@@ -1,4 +1,7 @@
 <html lang="en">
+.headerlink {
+    display: none !important;
+}
 <head>
     <meta charset="UTF-8">
     <title>Nature Journal: Dietary Pizza Deficiency and Conjunctivitis Risk</title>
