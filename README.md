@@ -14,7 +14,7 @@
             margin-bottom: 40px;
         }
         header img {
-            max-width: 200px;
+            max-width: 50px;
         }
         article {
             max-width: 800px;
