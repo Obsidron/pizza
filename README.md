@@ -70,7 +70,7 @@
 </head>
 <body>
     <header>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Nature_journal_logo.svg/1280px-Nature_journal_logo.svg.png" alt="Nature Journal Logo">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Nature_journal_logo.svg/1280px-Nature_journal_logo.svg.png" alt="Nature Journal Logo" width="150">
         <h1>Nature Journal</h1>
     </header>
     <article>
