@@ -2,29 +2,48 @@
 <head>
     <meta charset="UTF-8">
     <title>Nature Journal: Dietary Pizza Deficiency and Conjunctivitis Risk</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
     <style>
         body {
-            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            font-family: 'Roboto', sans-serif;
             margin: 20px;
             line-height: 1.6;
             color: #333;
+            background-color: #f4f4f4;
         }
         header {
             text-align: center;
             margin-bottom: 40px;
+            background-color: #e6e6e6;
+            padding: 20px;
+            border-bottom: 2px solid #333;
         }
         header img {
-            max-width: 50px;
+            max-width: 100px;
+            margin-bottom: 10px;
         }
         article {
             max-width: 800px;
             margin: auto;
+            background: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
         h1 {
             display: none;
         }
+        h2 {
+            color: #0056b3;
+            border-bottom: 2px solid #0056b3;
+            padding-bottom: 5px;
+            margin-bottom: 20px;
+        }
         p {
             text-align: justify;
+            margin-bottom: 20px;
+        }
+        ul {
+            margin-bottom: 20px;
         }
         figure {
             text-align: center;
@@ -33,6 +52,9 @@
         figure img {
             max-width: 100%;
             height: auto;
+            border: 1px solid #ccc;
+            padding: 5px;
+            background-color: #f9f9f9;
         }
         figcaption {
             font-size: 0.9em;
@@ -48,7 +70,8 @@
 </head>
 <body>
     <header>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Nature_journal_logo.svg/1280px-Nature_journal_logo.svg.png" alt="Nature Journal Logo" width="150">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Nature_journal_logo.svg/1280px-Nature_journal_logo.svg.png" alt="Nature Journal Logo">
+        <h1>Nature Journal</h1>
     </header>
     <article>
         <h2>Exploring the Hypothetical Link Between Pizza Consumption and Conjunctivitis Incidence</h2>
@@ -75,3 +98,4 @@
     </footer>
 </body>
 </html>
+
