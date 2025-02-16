@@ -20,8 +20,8 @@
             max-width: 800px;
             margin: auto;
         }
-        h1, h2 {
-            color: #333;
+        h1 {
+            display: none;
         }
         p {
             text-align: justify;
