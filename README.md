@@ -48,7 +48,7 @@
 </head>
 <body>
     <header>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Nature_journal_logo.png" alt="Nature Journal Logo">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Nature_journal_logo.png](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Nature_journal_logo.svg/1280px-Nature_journal_logo.svg.png" alt="Nature Journal Logo">
         <h1>Nature Journal</h1>
     </header>
     <article>
