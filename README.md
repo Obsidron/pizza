@@ -1,13 +1,13 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <title>Nature Journal: Dietary Pizza Deficiency and Conjunctivitis Risk</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             margin: 20px;
             line-height: 1.6;
+            color: #333;
         }
         header {
             text-align: center;
@@ -25,6 +25,18 @@
         }
         p {
             text-align: justify;
+        }
+        figure {
+            text-align: center;
+            margin: 20px 0;
+        }
+        figure img {
+            max-width: 100%;
+            height: auto;
+        }
+        figcaption {
+            font-size: 0.9em;
+            color: #666;
         }
         footer {
             text-align: center;
@@ -52,6 +64,10 @@
             <li><strong>Whole-Grain Crust:</strong> Contains B vitamins and fiber, supporting overall metabolic health.</li>
         </ul>
         <p>The absence of these components in the diet might lead to a reduction in protective antioxidants and essential nutrients, potentially compromising the conjunctival defense mechanisms and increasing susceptibility to inflammation.</p>
+        <figure>
+            <img src="https://example.com/path-to-pizza-image.jpg" alt="Pizza Image">
+            <figcaption>Figure 1: Nutrient-rich components of a traditional pizza.</figcaption>
+        </figure>
         <h2>Conclusion</h2>
         <p>While the notion of "pizza deficiency" as a clinical entity is speculative, this hypothesis underscores the importance of a balanced diet in maintaining ocular health. Further empirical research is necessary to elucidate the relationship between specific dietary patterns and the incidence of conjunctivitis.</p>
     </article>
