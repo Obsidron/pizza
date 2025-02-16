@@ -65,7 +65,7 @@
         </ul>
         <p>The absence of these components in the diet might lead to a reduction in protective antioxidants and essential nutrients, potentially compromising the conjunctival defense mechanisms and increasing susceptibility to inflammation.</p>
         <figure>
-            <img src="https://example.com/path-to-pizza-image.jpg" alt="Pizza Image">
+            <img src="https://commons.wikimedia.org/wiki/File:Pizza_Margherita_stu_spivack.jpg#/media/File:Pizza_Margherita_stu_spivack.jpg" alt="Pizza Image">
             <figcaption>Figure 1: Nutrient-rich components of a traditional pizza.</figcaption>
         </figure>
         <h2>Conclusion</h2>
